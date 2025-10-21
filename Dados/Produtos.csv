@@ -1,0 +1,66 @@
+﻿Relatório de Produtos e Categorias;
+;
+Total de Categorias: 08;
+Total de Produtos: 46;
+;
+Cod.Produto;Produto
+Categoria:;Iluminação
+LUM046;Luminária Solar
+;
+Categoria:;Madeiras
+CAV010;Cavalete
+FOR009;Forro
+PAL007;Pallet
+ESC002; Degrau de Escada Fixa
+PAN001;Painel
+CAI005;Caibro
+SAR008;Sarrafo
+VIG003;Viga
+CHA006;Chapas de Compensado
+PRA004;Prancha
+;
+Categoria:;Material de Construção
+ACO011;Barra de Aço
+ARG014;Argamassa
+ARE013;Areia
+CIM012;Cimento
+TIJ015;Tijolo
+;
+Categoria:;Pintura de Acessórios
+TINT017;Tinta
+VERN019;Verniz
+MASS018;Massa Corrida
+PINC016;Pincel
+;
+;
+Categoria:;Pisos e Revestimentos
+PIP020;Piso Pedra
+PIC021;Piso Cimento
+PIM023;Piso Mármore
+REV022;Revestimento
+;
+Categoria:;Eletricidade
+TOM025;Tomada
+CAB024;Cabo
+;
+Categoria:;Portas e Janelas
+JAN025;Janela de Madeira
+PORA024;Porta de Aço
+PORS027;Portão Social
+BATB043;Batente de Madeira Eucalipto
+GUAG040;Guarnição de MDF
+PORG042;Portão Garagem
+JANA030;Janela de Aço
+JANA031;Janela de Alumínio
+JANV038;Janela de Vidro
+JANPVC041;Janela de PVC
+PORA026;Porta de Alumínio
+PORV036;Porta de Vidro
+PORPVC033;Porta de PVC
+GUARP034;Guarnição de Plástico
+GUAJ044;Guarnição de Janela
+GUAPA032;Guarnição de Porta Aluminio
+GUAPB037;Guarnição de Porta Balcão
+ROSP039;Roseta Lisa de Porta Plástico
+BATM028;Batende de MDF
+BATC029;Batende de Madeira Cedro
